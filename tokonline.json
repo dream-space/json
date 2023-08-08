@@ -31,7 +31,7 @@
 		"ad_main_interstitial": true,
 		"ad_splash_open_app": false,
 		"ad_global_open_app": true,
-		"ad_inters_interval": 5,
+		"ad_inters_interval": 8,
 		"limit_time_open_app_loading": 8,
 		"ad_admob_publisher_id": "pub-3940256099942544",
 		"ad_admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
