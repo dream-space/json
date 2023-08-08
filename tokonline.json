@@ -1,0 +1,181 @@
+{ 
+	"general" : {
+		"checkout_type": "WHATSAPP",
+		"checkout_link": "https://wa.me/6285171505082?text=",
+		"checkout_rules": "Checkout orders will be submitted to the Whatsapp messaging application, shipping costs and other details will be explained in the chat by our team.",
+		"non_playstore_market_android": "",
+		"open_link_in_app": true,
+		"listing_pagination_count": 10,
+		"enable_text_selection": false,
+		"show_app_review_after_open": 8,
+		"notif_one_signal_appid": "e32c56f1-3ba7-450d-b3a0-1997f9833640",
+		"privacy_policy_url": "https://dream-space-the-news.blogspot.com/p/privacy-policy.html",
+		"more_apps_url": "https://codecanyon.net/user/dream_space/portfolio?order_by=sales",
+		"contact_us_url": "https://dream-space.web.id/",
+		"update_app_url": "https://play.google.com/store/apps/details?id=com.json.tokonline"
+	},
+	"ads" : {
+		"ad_enable": false,
+		"ad_networks": [
+			"ADMOB",
+			"IRONSOURCE",
+			"FAN",
+			"UNITY",
+			"APPLOVIN"
+		],
+		"retry_every_ad_networks": 2,
+		"retry_from_start": false,
+		"retry_from_start_max": 2,
+		"ad_enable_gdpr": true,
+		"ad_main_banner": true,
+		"ad_main_interstitial": true,
+		"ad_splash_open_app": false,
+		"ad_global_open_app": true,
+		"ad_inters_interval": 5,
+		"limit_time_open_app_loading": 8,
+		"ad_admob_publisher_id": "pub-3940256099942544",
+		"ad_admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"ad_admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"ad_admob_open_app_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"ad_fan_banner_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ad_fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ad_ironsource_app_key": "172a53645",
+		"ad_ironsource_banner_unit_id": "DefaultBanner",
+		"ad_ironsource_interstitial_unit_id": "DefaultInterstitial",
+		"ad_unity_game_id": "4297717",
+		"ad_unity_banner_unit_id": "Banner_Android",
+		"ad_unity_interstitial_unit_id": "Interstitial_Android",
+		"ad_applovin_banner_unit_id": "d62dc7470d3f119b",
+		"ad_applovin_interstitial_unit_id": "4e1b0167531b4dd8"
+	},
+	"categories" : [
+		"All Products", "Gamis & Khimar Set", "Gamis Syari", "Khimar & Bergo", "Aksesoris", "Couple Series"
+	],
+	"products" : [
+		{
+			"id": "P001",
+			"title": "AGATHA DRESS",
+			"price": "Rp 195k",
+			"content": "Gamis syari yang anggun cocok banget nemenin keseharian kamu nih, tampil minimalist tapi tetap terlihat stylish. Hadir dengan pilihan warna baru yang manis dan cewe bumi banget! Bakal jadi dress favorit kamu deh",
+			"link": "http://dream-space.web.id/",
+			"image": "https://jamisesyari.com/cdn/shop/files/CoverAgathaDressWebNewColor1_800x.jpg",
+			"quantity": 1,
+			"variants": [
+				{
+					"name" : "Size S", "price" : "Rp 195k"
+				},
+				{
+					"name" : "Size M", "price" : "Rp 195k"
+				},
+				{
+					"name" : "Size L", "price" : "Rp 200k"
+				}
+			],
+			"category": ["All Products", "Gamis & Khimar Set"],
+			"images": [
+				"https://jamisesyari.com/cdn/shop/products/Artboard2_764a310a-f08e-4c38-ab6e-b6c764597393_800x.jpg", "https://jamisesyari.com/cdn/shop/products/Artboard3_ef67d49e-780a-479f-88a0-1f90e3f67daa_800x.jpg"
+			],
+			"date": "15 Feb 2022"
+		},
+		{
+			"id": "P002",
+			"title": "AISHA BASIC SERIES",
+			"price": "Rp 340k",
+			"price_discount": "Rp 310k",
+			"content": "Kalau Nyari Gamis Series Yang Simple Dengan Look Elegant & Classy, Aisha Series Basic Jadi Jawabannya Dong! Comeback Dengan Warna Terbaru Yang Pastinya Cocok Untuk Dipakai Sny Occation Baik Formal/Non Formal",
+			"link": "http://dream-space.web.id/",
+			"image": "https://jamisesyari.com/cdn/shop/products/AishaSeries-MacchiatoArtboard1_800x.jpg?v=1687331928",
+			"quantity": 1,
+			"variants": [],
+			"category": ["All Products", "Gamis Syari"],
+			"images": [
+				"https://jamisesyari.com/cdn/shop/products/AishaSeries-MacchiatoArtboard2_800x.jpg?v=1687331928"
+			],
+			"date": "15 Feb 2022"
+		},
+		{
+			"id": "P003",
+			"title": "YUMNA BERGO",
+			"price": "Rp 85.000",
+			"price_discount": "Rp 70.000",
+			"content": "Bergo instant ternyaman, yang bisa kamu pake dalam menghadapi segala kondisi selama dirumah aja. Gak perlu khawatir pas tiba-tiba terima paket atau terima tamu dadakan. Tinggal slup, cantik deh.",
+			"link": "http://dream-space.web.id/",
+			"image": "https://jamisesyari.com/cdn/shop/files/Artboard1_041657bd-f565-4c1c-964d-e3b974eef460_800x.jpg",
+			"quantity": 1,
+			"variants": [
+				{
+					"name" : "Charcoal"
+				},
+				{
+					"name" : "Frapuccino"
+				},
+				{
+					"name" : "Mocca"
+				}
+			],
+			"category": ["All Products", "Khimar & Bergo"],
+			"images": [
+				"https://jamisesyari.com/cdn/shop/files/Artboard1_34113dbf-9d89-49a1-940c-413f5b7cd981_800x.jpg",
+				"https://jamisesyari.com/cdn/shop/files/Artboard1_34113dbf-9d89-49a1-940c-413f5b7cd981_800x.jpg",
+				"https://jamisesyari.com/cdn/shop/files/Artboard1_86d6055b-f66e-4d8c-bb1d-bdc9df879731_800x.jpg"
+			],
+			"date": "15 Feb 2022"
+		},
+		{
+			"id": "P004",
+			"title": "KAOS KAKI",
+			"price": "Rp 30.000",
+			"content": "Jangan lupa untuk melindungi bagian terpenting dari aurat wanita dengan kaos kaki yang satu ini! Didesain dengan bahan Katun Dye yang nyaman dan breathable, buat kaki kamu gak kerasa pengap & anti bau untuk dipakai aktivitas seharian.",
+			"link": "http://dream-space.web.id/",
+			"image": "https://jamisesyari.com/cdn/shop/files/Cover_800x.jpg",
+			"quantity": 1,
+			"variants": [
+				{
+					"name" : "Black"
+				},
+				{
+					"name" : "Latte"
+				},
+				{
+					"name" : "Cream"
+				}
+			],
+			"category": ["All Products", "Aksesoris"],
+			"images": [
+				"hhttps://jamisesyari.com/cdn/shop/files/7_7fffff99-a0ce-4eb3-b4ab-3cbc27efc6ee_800x.jpg",
+				"https://jamisesyari.com/cdn/shop/files/8_348a537f-1a4b-49f6-9b0d-ba5c5a9b999b_800x.jpg"
+			],
+			"date": "15 Feb 2022"
+		}
+	],
+	"vouchers" : [
+		{
+			"id": "V001",
+			"title": "Diskon Lalisa Dress",
+			"date": "8 Agustus 2023",
+			"content": "Nam efficitur scelerisque velit, vel cursus metus dignissim vel. Morbi fringilla magna in est tincidunt gravida. Vestibulum rhoncus aliquam nunc, non viverra nisl aliquet vel. Proin id neque justo. Ut gravida cursus justo nec aliquet. Integer ultrices ipsum eget mi tristique, sed feugiat lorem semper. Aenean tempus, nulla at interdum molestie, neque justo posuere lorem, id imperdiet turpis ipsum a libero. Nunc eget molestie felis. Donec vel lectus et quam fringilla egestas in in elit. Nam molestie faucibus lacinia.",
+			"link": "www.google.com",
+			"image": "https://down-ws-id.img.susercontent.com/id-11134210-7qul5-lis7huhp36tzcd.webp",
+			"coupon": "KODE VOUCHER 1"
+		},
+		{
+			"id": "V002",
+			"title": "Diskon Launching",
+			"date": "8 Agustus 2023",
+			"content": "Nam efficitur scelerisque velit, vel cursus metus dignissim vel. Morbi fringilla magna in est tincidunt gravida. Vestibulum rhoncus aliquam nunc, non viverra nisl aliquet vel. Proin id neque justo. Ut gravida cursus justo nec aliquet. Integer ultrices ipsum eget mi tristique, sed feugiat lorem semper. Aenean tempus, nulla at interdum molestie, neque justo posuere lorem, id imperdiet turpis ipsum a libero. Nunc eget molestie felis. Donec vel lectus et quam fringilla egestas in in elit. Nam molestie faucibus lacinia.",
+			"link": "www.google.com",
+			"image": "https://down-ws-id.img.susercontent.com/id-11134210-7qul4-lk0gnk557y6w43.webp",
+			"coupon": "VOUCHER CODE 2"
+		},
+		{
+			"id": "V003",
+			"title": "Diskon Back in Stock",
+			"date": "8 Agustus 2023",
+			"content": "Nam efficitur scelerisque velit, vel cursus metus dignissim vel. Morbi fringilla magna in est tincidunt gravida. Vestibulum rhoncus aliquam nunc, non viverra nisl aliquet vel. Proin id neque justo. Ut gravida cursus justo nec aliquet. Integer ultrices ipsum eget mi tristique, sed feugiat lorem semper. Aenean tempus, nulla at interdum molestie, neque justo posuere lorem, id imperdiet turpis ipsum a libero. Nunc eget molestie felis. Donec vel lectus et quam fringilla egestas in in elit. Nam molestie faucibus lacinia.",
+			"link": "www.google.com",
+			"image": "https://down-ws-id.img.susercontent.com/id-11134210-7qul0-lis7huhp4lefa5.webp",
+			"coupon": "VOUCHER CODE 3"
+		}
+
+	]
+}
