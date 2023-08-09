@@ -2,7 +2,7 @@
 	"general" : {
 		"checkout_type": "WHATSAPP",
 		"checkout_link": "https://wa.me/6285171505082?text=",
-		"checkout_rules": "Checkout orders will be submitted to the Whatsapp messaging application, shipping costs and other details will be explained in the chat by our team.",
+		"checkout_rules": "Pesanan checkout akan disubmit melalui Whatsapp, biaya pengiriman dan detail lainnya akan dijelaskan dalam chat oleh tim kami.",
 		"non_playstore_market_android": "",
 		"open_link_in_app": true,
 		"listing_pagination_count": 10,
