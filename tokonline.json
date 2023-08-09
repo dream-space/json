@@ -29,7 +29,7 @@
 		"ad_enable_gdpr": true,
 		"ad_main_banner": true,
 		"ad_main_interstitial": true,
-		"ad_splash_open_app": false,
+		"ad_splash_open_app": true,
 		"ad_global_open_app": true,
 		"ad_inters_interval": 8,
 		"limit_time_open_app_loading": 8,
